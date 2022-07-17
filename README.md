@@ -1,4 +1,4 @@
-# beginings
+# prime_algorithms
 
 This is a rust project that implements multiple algorithms to calculate prime numbers as a CLI.
 Operations include running individual algorithms, or running them all and comparing the runtime.
